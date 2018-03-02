@@ -1,0 +1,1 @@
+Server=tcp:test-nopcommerce.database.windows.net,1433;Initial Catalog=nopCommerce;Persist Security Info=False;User ID=webappuser;Password=Dzikij20;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
